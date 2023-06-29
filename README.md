@@ -1,4 +1,4 @@
-# 🦸 x1KTO
+# 🦸 Shikto
 
 **`Omnipotent (Developer/Player/Creator)`**
 
