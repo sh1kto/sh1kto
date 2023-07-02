@@ -15,13 +15,31 @@ I'm a student. I play games and learning many programming languages and framewor
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shikto7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-<br />
+<p align="center">
+
+- **Languages**:
+    
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![PYTHON](https://img.shields.io/badge/python%20-%23009639.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Softwares and Tools**:
+
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+- **Extras**:
+
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
 
 ### 📺 Latest YouTube Videos
 
@@ -33,3 +51,5 @@ I'm a student. I play games and learning many programming languages and framewor
 [![Watch Anime and Manga For free with this app](https://ytcards.demolab.com/?id=WAaEDGAmfKM&title=Watch+Anime+and+Manga+For+free+with+this+app&lang=en&timestamp=1666958119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Watch Anime and Manga For free with this app")](https://www.youtube.com/watch?v=WAaEDGAmfKM)
 [![MVP Again in Gold Rank | Arena Of Valor](https://ytcards.demolab.com/?id=EB133_Vsyi0&title=MVP+Again+in+Gold+Rank+%7C+Arena+Of+Valor&lang=en&timestamp=1666210070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "MVP Again in Gold Rank | Arena Of Valor")](https://www.youtube.com/watch?v=EB133_Vsyi0)
 <!-- END YOUTUBE-CARDS -->
+
+
