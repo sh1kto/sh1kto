@@ -53,8 +53,12 @@ I'm a student. I play games and learning many programming languages and framewor
 
 - **Important Links**:
 
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-    ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-    ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-    ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+     <a href="https://www.linkedin.com/in/shikto/">
+         <img alt="Linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <a href="weixin://dl/chat?sh1kto">
+         <img alt="wechat" title="Messege me on wechat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
+         <a href="https://sh1kto.itch.io">
+         <img alt="itch" title="My Games" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+         <a href="https://www.hackerrank.com/shikto">
+         <img alt="hackerrank" title="HackerRank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
