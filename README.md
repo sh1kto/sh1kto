@@ -48,7 +48,7 @@ I'm a student. I play games and learning many programming languages and framewor
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Rimuru's last wish before dying as a human Season 1 Episode 1 Clip](https://ytcards.demolab.com/?id=yEHWvXGYPIU&title=Rimuru%27s+last+wish+before+dying+as+a+human+Season+1+Episode+1+Clip&lang=en&timestamp=1693920689&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rimuru's last wish before dying as a human Season 1 Episode 1 Clip")](https://www.youtube.com/watch?v=yEHWvXGYPIU)
 <!-- END YOUTUBE-CARDS -->
 
 - **Important Links**:
