@@ -48,12 +48,12 @@ I'm a student. I play games and learning many programming languages and framewor
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Mafia | Gameplay | Part 1](https://ytcards.demolab.com/?id=1A9740TymJc&title=Mafia+%7C+Gameplay+%7C+Part+1&lang=en&timestamp=1710195043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mafia | Gameplay | Part 1")](https://www.youtube.com/watch?v=1A9740TymJc)
 [![Rainbow Six Siege Mobile Kill Clips](https://ytcards.demolab.com/?id=kSyedYQ092A&title=Rainbow+Six+Siege+Mobile+Kill+Clips&lang=en&timestamp=1694285943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rainbow Six Siege Mobile Kill Clips")](https://www.youtube.com/watch?v=kSyedYQ092A)
 [![Arena Breakout First Look](https://ytcards.demolab.com/?id=WOCIU_ocLXU&title=Arena+Breakout+First+Look&lang=en&timestamp=1693235958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Arena Breakout First Look")](https://www.youtube.com/watch?v=WOCIU_ocLXU)
 [![Farlight 84 First time Playing](https://ytcards.demolab.com/?id=TFU-oDw_OOg&title=Farlight+84+First+time+Playing&lang=en&timestamp=1692735988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Farlight 84 First time Playing")](https://www.youtube.com/watch?v=TFU-oDw_OOg)
 [![Air Assault Level 7-12 | Gameplay (No Commentary)](https://ytcards.demolab.com/?id=8nbnXPo41G0&title=Air+Assault+Level+7-12+%7C+Gameplay+%28No+Commentary%29&lang=en&timestamp=1689668273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Air Assault Level 7-12 | Gameplay (No Commentary)")](https://www.youtube.com/watch?v=8nbnXPo41G0)
 [![Air Assault Level 1-6 | Gameplay (No Commentary)](https://ytcards.demolab.com/?id=HoYMaAQVaLI&title=Air+Assault+Level+1-6+%7C+Gameplay+%28No+Commentary%29&lang=en&timestamp=1689626687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Air Assault Level 1-6 | Gameplay (No Commentary)")](https://www.youtube.com/watch?v=HoYMaAQVaLI)
-[![How to install Optifine for Minecraft 1.19.2](https://ytcards.demolab.com/?id=X_qLe9xY3-A&title=How+to+install+Optifine+for+Minecraft+1.19.2&lang=en&timestamp=1668535216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to install Optifine for Minecraft 1.19.2")](https://www.youtube.com/watch?v=X_qLe9xY3-A)
 <!-- END YOUTUBE-CARDS -->
 
 - **Important Links**:
