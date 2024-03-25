@@ -48,12 +48,7 @@ I'm a student. I play games and learning many programming languages and framewor
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 2 - No Commentary](https://ytcards.demolab.com/?id=VWtkEpdkp8g&title=PRINCE+OF+PERSIA+THE+SANDS+OF+TIME+Full+Game+Walkthrough+Part+2+-+No+Commentary&lang=en&timestamp=1711278023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 2 - No Commentary")](https://www.youtube.com/watch?v=VWtkEpdkp8g)
-[![Mind Blowing Low-End PC Games You Can't Miss!](https://ytcards.demolab.com/?id=54kFlyAl8ns&title=Mind+Blowing+Low-End+PC+Games+You+Can%27t+Miss%21&lang=en&timestamp=1711191450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mind Blowing Low-End PC Games You Can't Miss!")](https://www.youtube.com/watch?v=54kFlyAl8ns)
-[![PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 1 - No Commentary](https://ytcards.demolab.com/?id=B7zTyN84b5k&title=PRINCE+OF+PERSIA+THE+SANDS+OF+TIME+Full+Game+Walkthrough+Part+1+-+No+Commentary&lang=en&timestamp=1711022408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 1 - No Commentary")](https://www.youtube.com/watch?v=B7zTyN84b5k)
-[![Welcome To My Channel !](https://ytcards.demolab.com/?id=dIDr0Nxt66w&title=Welcome+To+My+Channel+%21&lang=en&timestamp=1710952453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Welcome To My Channel !")](https://www.youtube.com/watch?v=dIDr0Nxt66w)
-[![Prince of Persia 2008 | PC Walkthrough (Part 2)](https://ytcards.demolab.com/?id=R85AJ6H5tCk&title=Prince+of+Persia+2008+%7C+PC+Walkthrough+%28Part+2%29&lang=en&timestamp=1710792935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Prince of Persia 2008 | PC Walkthrough (Part 2)")](https://www.youtube.com/watch?v=R85AJ6H5tCk)
-[![Thrilling low-end PC games that will BLOW YOUR MIND](https://ytcards.demolab.com/?id=N5K7pjjePUo&title=Thrilling+low-end+PC+games+that+will+BLOW+YOUR+MIND&lang=en&timestamp=1710709237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Thrilling low-end PC games that will BLOW YOUR MIND")](https://www.youtube.com/watch?v=N5K7pjjePUo)
+
 <!-- END YOUTUBE-CARDS -->
 
 - **Important Links**:
