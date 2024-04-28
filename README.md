@@ -48,7 +48,12 @@ I'm a student. I play games and learning many programming languages and framewor
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![GTA San Andreas - Mission #6 - Nines and AK's](https://ytcards.demolab.com/?id=qk0oWLJXUmQ&title=GTA+San+Andreas+-+Mission+%236+-+Nines+and+AK%27s&lang=en&timestamp=1713558801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA San Andreas - Mission #6 - Nines and AK's")](https://www.youtube.com/watch?v=qk0oWLJXUmQ)
+[![GTA San Andreas - Mission #5 - Drive-thru](https://ytcards.demolab.com/?id=kgNVNFRiVIQ&title=GTA+San+Andreas+-+Mission+%235+-+Drive-thru&lang=en&timestamp=1713558382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA San Andreas - Mission #5 - Drive-thru")](https://www.youtube.com/watch?v=kgNVNFRiVIQ)
+[![GTA San Andreas - Mission #4 - Cleaning the Hood](https://ytcards.demolab.com/?id=C0YftBVbLpc&title=GTA+San+Andreas+-+Mission+%234+-+Cleaning+the+Hood&lang=en&timestamp=1712610369&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA San Andreas - Mission #4 - Cleaning the Hood")](https://www.youtube.com/watch?v=C0YftBVbLpc)
+[![GTA San Andreas - Mission #3 - Tagging up Turf](https://ytcards.demolab.com/?id=NB3QOVZ8fnI&title=GTA+San+Andreas+-+Mission+%233+-+Tagging+up+Turf&lang=en&timestamp=1712609763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA San Andreas - Mission #3 - Tagging up Turf")](https://www.youtube.com/watch?v=NB3QOVZ8fnI)
+[![GTA San Andreas - Mission #2 - Ryder](https://ytcards.demolab.com/?id=XK8f-LFk2mc&title=GTA+San+Andreas+-+Mission+%232+-+Ryder&lang=en&timestamp=1712601216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GTA San Andreas - Mission #2 - Ryder")](https://www.youtube.com/watch?v=XK8f-LFk2mc)
+[![PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 3 - No Commentary](https://ytcards.demolab.com/?id=H_TrWgiEqKQ&title=PRINCE+OF+PERSIA+THE+SANDS+OF+TIME+Full+Game+Walkthrough+Part+3+-+No+Commentary&lang=en&timestamp=1712512128&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PRINCE OF PERSIA THE SANDS OF TIME Full Game Walkthrough Part 3 - No Commentary")](https://www.youtube.com/watch?v=H_TrWgiEqKQ)
 <!-- END YOUTUBE-CARDS -->
 
 - **Important Links**:
